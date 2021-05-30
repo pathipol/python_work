@@ -1,0 +1,15 @@
+Body Temperature (C),Cough,Runny Nose,Disease
+36.5,No,No,Normal
+37,No,No,Normal
+36.5,Yes,No,Normal
+39,No,No,Dengue Fever
+38,Yes,Yes,Cold
+37,No,Yes,Cold
+36.5,Yes,Yes,Cold
+39,Yes,No,Dengue Fever
+38,No,No,Dengue Fever
+37.5,No,No,Cold
+37.9,No,Yes,Cold
+36.8,Yes,Yes,Cold
+38.9,Yes,No,Dengue Fever
+37.8,No,No,Dengue Fever
